@@ -10,7 +10,6 @@ body{
     background:url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
     height: 100vh;
     font-family: Lato, sans-serif;
 }
